@@ -11,15 +11,6 @@ So you've stumbled across my GitHub! Welcome, I wonder how you got here?!
   - A solution to improve flag and penalty analysis using machine learning (Final Year Project)
   - Hosting my personal website: [ruben-tanner.uk](https://ruben-tanner.uk)
 
-
----
-
-## 🛠️ Tech Stack
-- **Languages**: JavaScript, Python (learning), HTML, CSS
-- **Frameworks & Libraries**: React, Node.js, Express
-- **Tools**: GitHub Actions, Docker, Contabo VPS
-- **Database**: MongoDB
-
 ---
 
 ## 🌱 I’m Learning
