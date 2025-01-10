@@ -32,5 +32,12 @@ So you've stumbled across my GitHub! Welcome, I wonder how you got here?!
 
 ---
 
+## ☕ Support Me
+If you enjoy my work or want to help me create more awesome projects, consider buying me a coffee!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G118SIB1)
+
+---
+
 ## 📊 GitHub Stats
 ![Ruben Tanner's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubenTanner&show_icons=true&theme=radical)
