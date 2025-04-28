@@ -1,34 +1,33 @@
-# 👋 Hi, I'm Ruben
+# 👋 Hi, I’m Ruben
 
 So you've stumbled across my GitHub! Welcome, I wonder how you got here?!
 
----
-
 ## 🚀 About Me
 - 🌍 Based in the South of England
-- 🎓 Final-year university student stydying Software Engineering
-- ⚙️ Currently working on:
-  - A solution to improve flag and penalty analysis using machine learning (Final Year Project)
-  - Hosting my personal website: [ruben-tanner.uk](https://ruben-tanner.uk)
+- 🎓 Software Engineering University Of Portsmouth 🎓
+
+## 🛠️ Currently building:
+- [Spinwise](spinwise.app) — a smarter music recommendation tool powered by AI and Spotify
+- [GoTutor](gotutor.uk) — an upcoming tutoring platform, currently in development
+- [ruben-tanner.uk](https://ruben-taner.uk) - Hosting my projects (like my website) and portfolio
 
 ---
 
-## 🌱 I’m Learning
-- Advanced machine learning techniques
-- Backend optimization for scalable web services
-- Project Management Methodologies to improve my skills
-
+## 🌱 I’m Currently Exploring
+- Advanced AI integrations (LLMs + embeddings)
+- Scalable backend design and self-hosted infrastructure
 ---
 
-## 📫 Get in Touch
-- 🌐 Personal Website: [ruben-tanner.uk](https://ruben-tanner.uk)
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ruben-tanner-75a03321a/)
+## 📫 Let’s Connect 
+- 🌐 Website [ruben-tanner.uk](https://ruben-tanner.uk)
+- 💼 LinkedIn [LinkedIn](https://www.linkedin.com/in/ruben-tanner-75a03321a/)
 
 ---
 
 ## 🏈 Fun Facts
-- I'm passionate about sports and play American Football in the prem of the BUCS league.
-- My favourite shark is the basking shark (can't go wrong with them!).
+- I play American Football in the BUCS Premier division and BAFACL in the SFC Central 1 Division 🏈
+- My favourite shark? Obviously the Basking shark 🦈
+- I’m a big fan of making things — from coding apps to fixing gadgets!
 
 ---
 
@@ -40,4 +39,7 @@ If you enjoy my work or want to help me create more awesome projects, consider b
 ---
 
 ## 📊 GitHub Stats
-![Ruben Tanner's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubenTanner&show_icons=true&theme=radical)
+
+![RubenTanner's Stats](https://github-readme-stats.vercel.app/api?username=RubenTanner&theme=bear&show_icons=true&hide_border=true&count_private=true)
+
+![RubenTanner's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenTanner&theme=bear&show_icons=true&hide_border=true&layout=compact)
