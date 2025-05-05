@@ -42,4 +42,8 @@ If you enjoy my work or want to help me create more awesome projects, consider b
 
 ![RubenTanner's Stats](https://github-readme-stats.vercel.app/api?username=RubenTanner&theme=bear&show_icons=true&hide_border=true&count_private=true)
 
+(who knows, one day maybe ill make something mega popular and have 1000 stars?)
+
 ![RubenTanner's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenTanner&theme=bear&show_icons=true&hide_border=true&layout=compact)
+
+(can you tell i do a bit of web development with that stack...)
